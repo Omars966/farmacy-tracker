@@ -1,0 +1,19 @@
+{
+  "match_score": 45,
+  "summary": "Kandidāte Elīna R. ir spēcīga SEO speciāliste ar 5 gadu pieredzi un labām zināšanām satura mārketingā un analītiskā domāšanā. Tomēr viņai trūkst tiešas pieredzes ar tiešsaistes reklāmas platformām (Google Ads, Meta), kas ir galvenā prasība šim Digitālā mārketinga speciālista amatam, kā arī nav minētas latviešu valodas zināšanas un radoša pieeja.",
+  "strengths": [
+    "5 gadu pieredze SEO un mājaslapu optimizācijā",
+    "Zināšanas Google Search Console",
+    "Satura stratēģiju izstrāde",
+    "Labi izprot organisko sasniedzamību",
+    "Analītiska domāšana",
+    "Ļoti laba angļu valoda"
+  ],
+  "missing_requirements": [
+    "Pieredze ar Google Ads un Meta (Facebook/Instagram) reklāmām",
+    "Google Analytics izmantošana kampaņu rezultātu analīzei un optimizācijai",
+    "Labas latviešu valodas zināšanas (nav minētas)",
+    "Radoša pieeja un iniciatīva (nav tieši minētas)"
+  ],
+  "verdict": "possible match"
+}
